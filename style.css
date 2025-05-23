@@ -1,0 +1,25 @@
+body {
+	background-color: #0c0c0c;
+	color: white;
+	text-align: center;
+	padding: 1%;
+}
+
+.article {
+	color: white;
+	background-color: #101010;
+	text-decoration: none;
+	width: 30%;
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	text-align: center;
+	border-radius: 10px;
+}
+.article:visited {
+	color: white;
+}
+.article:hover {
+	background-color: #1c1c1c;
+}
